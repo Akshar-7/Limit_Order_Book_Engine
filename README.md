@@ -4,10 +4,10 @@ A high-performance, multi-threaded Limit Order Book (LOB) matching engine writte
 
 
 ## Table of Contents
-1. [Architecture & Features](#-architecture--features)
-2. [Performance Benchmark](#-performance-benchmark)
-3. [Project Structure](#-project-structure)
-4. [Prerequisites](#-prerequisites)
+1. [Architecture & Features](#architecture--features)
+2. [Performance Benchmark](#performance-benchmark)
+3. [Quick Start](#quick-start)
+4. [Project Structure](#project-structure)
 
 
 ## Architecture & Features
